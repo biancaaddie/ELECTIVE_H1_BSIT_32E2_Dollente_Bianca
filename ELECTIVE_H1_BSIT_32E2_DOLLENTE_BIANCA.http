@@ -1,0 +1,6 @@
+@ELECTIVE_H1_BSIT_32E2_DOLLENTE_BIANCA_HostAddress = http://localhost:5072
+
+GET {{ELECTIVE_H1_BSIT_32E2_DOLLENTE_BIANCA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
